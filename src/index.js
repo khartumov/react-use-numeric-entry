@@ -1,3 +1,3 @@
-import { useNumericEntry } from './useNumericEntry'
+import useNumericEntry from './useNumericEntry'
 
-export { useNumericEntry }
+export default useNumericEntry
